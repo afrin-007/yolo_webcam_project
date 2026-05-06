@@ -115,3 +115,6 @@ python detect.py --weights yolov5s.pt --source video.mp4
 ## Support
 
 If you found this project useful, consider giving it a star on GitHub.
+
+<img width="1910" height="1078" alt="image" src="https://github.com/user-attachments/assets/b48f1f89-3689-4cdc-831d-85de2d7aa289" />
+
